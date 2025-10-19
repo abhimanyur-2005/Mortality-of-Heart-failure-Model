@@ -1,2 +1,2 @@
 # Mortality-of-Heart-failure-Model
-Mortality of Heart failure of the patient , Model have visualisation of the data and the other necessary features 
+Mortality of Heart failure of the patient , Model have visualisation, optimisation of the data  in python using pythons library. 
